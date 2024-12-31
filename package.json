@@ -1,0 +1,86 @@
+{
+  "name": "3KTickets-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fortawesome/fontawesome-free": "^6.7.0",
+    "@microsoft/signalr": "^8.0.7",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/lab": "^5.0.0-alpha.172",
+    "@mui/material": "^5.16.7",
+    "@mui/x-date-pickers": "^7.10.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.6",
+    "cors": "^2.8.5",
+    "crypto-browserify": "^3.12.0",
+    "crypto-js": "^4.2.0",
+    "date-fns": "^3.6.0",
+    "dayjs": "^1.11.11",
+    "express": "^4.19.2",
+    "flickity": "^2.3.0",
+    "font-awesome": "^4.7.0",
+    "google-auth-library": "^9.11.0",
+    "js-cookie": "^3.0.5",
+    "json-server": "^1.0.0-beta.1",
+    "json-server-auth": "^2.1.0",
+    "jwt-decode": "^4.0.0",
+    "lodash": "^4.17.21",
+    "mailgun": "^0.5.0",
+    "mailgun-js": "^0.22.0",
+    "mailgun.js": "^10.2.1",
+    "moment": "^2.30.1",
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4",
+    "qs": "^6.12.3",
+    "query-string": "^9.1.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
+    "react-chartjs-2": "^5.2.0",
+    "react-countdown": "^2.3.6",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.3.1",
+    "react-flickity-component": "^4.0.7",
+    "react-icons": "^5.3.0",
+    "react-router-dom": "^6.27.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.12.7",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "database": "json-server --watch db.json --port 9999",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "webpack": "^5.96.1",
+    "webpack-dev-server": "^5.1.0"
+  }
+}

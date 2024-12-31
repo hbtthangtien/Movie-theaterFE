@@ -1,0 +1,845 @@
+{
+  "carousel": [
+    {
+      "name": "carousel1",
+      "src": "./images/carousel/Carousel2.png",
+      "id": "f4c8"
+    },
+    {
+      "name": "carousel2",
+      "src": "./images/carousel/Carousel1.png",
+      "id": "4226"
+    },
+    {
+      "name": "carousel1",
+      "src": "./images/carousel/Carousel2.png",
+      "id": "1474"
+    }
+  ],
+  "onTheaterMovies": [
+    {
+      "id": "1",
+      "title": "LẬT MẶT 7: MỘT ĐIỀU ƯỚC",
+      "description": "Bộ phim “chữa lành” lấy cảm hứng từ những câu chuyện thường nhật trong đời sống gia đình. Câu chuyện xoay quanh một người mẹ và những đứa con với tựa “Một Điều Ước”.",
+      "ageUnder": "K",
+      "type": "Drama",
+      "director": "Lý Hải",
+      "category": "Healing",
+      "startDate": "26/04/2024",
+      "time": "139",
+      "language": "sub",
+      "img": "/images/movies/latmat7.jpeg",
+      "onTheater": true
+    },
+    {
+      "id": "2",
+      "title": "TOTTO-CHAN: THE LITTLE GIRL AT THE WINDOW",
+      "description": "Một ngôi trường lý tưởng ở Tokyo trong Thế chiến thứ hai kết hợp việc học với niềm vui, sự tự do và tình yêu. Ngôi trường khác thường này có những toa tàu cũ dùng làm lớp học và được điều hành bởi một người đàn ông phi thường.",
+      "ageUnder": "K",
+      "type": "2D",
+      "director": "Shinnosuke Yakuwa",
+      "category": "Animation",
+      "startDate": "31/05/2024",
+      "time": "114",
+      "language": "sub",
+      "img": "/images/movies/tottochan.jpeg",
+      "onTheater": true
+    },
+    {
+      "id": "3",
+      "title": "DORAEMON THE MOVIE: NOBITA S EARTH SYMPHONY",
+      "description": "Doraemon và những người bạn thực hiện chuyến phiêu lưu để gặp gỡ những người bạn mới, kết nối mọi người bằng âm nhạc và cứu thế giới khỏi khủng hoảng.",
+      "ageUnder": "P",
+      "type": "2D",
+      "director": "Kazuaki Imai",
+      "category": "Animation",
+      "startDate": "31/05/2024",
+      "time": "123",
+      "language": "sub",
+      "img": "/images/movies/dora.png",
+      "onTheater": true
+    },
+    {
+      "id": "4",
+      "title": "STALKER",
+      "description": "Một đại lý bất động sản bí mật vào nhà khách hàng và bị ám ảnh bởi một người có ảnh hưởng lừa đảo trên mạng xã hội. Bộ phim khám phá các chủ đề về nỗi ám ảnh, danh tính và mặt tối của mạng xã hội.",
+      "ageUnder": "T16",
+      "type": "2D",
+      "director": "Kim Se-hwi",
+      "category": "Thriller",
+      "startDate": "31/05/2024",
+      "time": "103",
+      "language": "Phụ đề",
+      "img": "/images/movies/stalker.png",
+      "onTheater": true
+    },
+    {
+      "id": "5",
+      "title": "PEE NAK 4",
+      "description": "Ba người bạn thấy mình đang ở một ngôi chùa cổ nằm ở ngoại ô thành phố. Tuy nhiên, ngôi chùa này ẩn chứa một truyền thuyết đáng sợ: bất cứ ai mong muốn được xuất gia làm tu sĩ ở đó đều bị nguyền rủa.",
+      "ageUnder": "T16",
+      "type": "2D",
+      "director": "Phontharis Chotkijsadarsopon",
+      "category": "Comedy",
+      "startDate": "31/05/2024",
+      "time": "111",
+      "language": "Phụ đề",
+      "img": "/images/movies/penak.png",
+      "onTheater": false
+    },
+    {
+      "id": "6",
+      "title": "HOW TO MAKE MILLIONS: GIA TÀI CỦA NGOẠI",
+      "description": "Một người đàn ông nghỉ việc để chăm sóc bà ngoại đang hấp hối, được thúc đẩy bởi vận may của bà. Anh ta lên kế hoạch để giành được sự ưu ái của ngoại trước khi bà qua đời.",
+      "ageUnder": "T13",
+      "type": "2D",
+      "director": "Pat Boonnitipat",
+      "category": "Drama",
+      "startDate": "07/06/2024",
+      "time": "1237",
+      "language": "Lồng tiếng",
+      "img": "/images/movies/giatai.jpg",
+      "onTheater": false
+    },
+    {
+      "id": "7",
+      "title": "BAD BOYS: NHỮNG GÃ TRAI HƯ",
+      "description": "Những Gã Trai Hư được yêu thích trên toàn thế giới đã trở lại với sự kết hợp mang tính biểu tượng giữa hành động ngay tại chỗ và hài kịch gây sốc nhưng lần này có một sự thay đổi: những bộ phim hay nhất của Miami hiện đang trên đường chạy trốn.",
+      "ageUnder": "T18",
+      "type": "2D",
+      "director": "Adil El Arbi, Bilall Fallah",
+      "category": "Dama",
+      "startDate": "07/06/2024",
+      "time": "115",
+      "language": "Phụ đề",
+      "img": "/images/movies/badboy.jpg",
+      "onTheater": true
+    },
+    {
+      "id": "8",
+      "title": "MÓNG VUỐT",
+      "description": "Móng Vuốt dẫn dắt người xem đồng hành với buổi tiệc dã ngoại náo nhiệt của một nhóm bạn trong rừng sâu. Tuy nhiên, buổi tiệc nhanh chóng trở thành một cuộc chiến sống còn giữa họ và một con quái thú không thể định hình và cực kỳ nguy hiểm. Nó vô hình, nha",
+      "ageUnder": "T16",
+      "type": "2D",
+      "director": "Lê Thanh Sơn",
+      "category": "Horror",
+      "startDate": "Lê Thanh Sơn",
+      "time": "96",
+      "language": "Phụ đề",
+      "img": "/images/movies/claw.jpg",
+      "onTheater": true
+    },
+    {
+      "id": "9",
+      "title": "DESPICABLE ME: KẺ TRỘM MẶT TRĂNG 4",
+      "description": "Gru, Lucy, Margo, Edith và Agnes chào đón thành viên mới đến với gia đình, Gru Jr., kẻ đang có ý định hành hạ bố mình. Gru phải đối mặt với kẻ thù mới là Maxime Le Mal và bạn gái Valentina, còn cả gia đình buộc phải chạy trốn.",
+      "ageUnder": "P",
+      "type": "2D",
+      "director": "Chris Renaud, Patrick Delage",
+      "category": "Animation",
+      "startDate": "05/07/2024",
+      "time": "96",
+      "language": "Phụ đề",
+      "img": "/images/movies/minion.png",
+      "onTheater": true
+    },
+    {
+      "id": "10",
+      "title": "THE EXORCISM: THẦY TRỪ TÀ",
+      "description": "Một diễn viên gặp rắc rối bắt đầu có hành vi gây rối khi quay một bộ phim kinh dị. Cô con gái bị ghẻ lạnh của ông tự hỏi liệu ông có đang quay trở lại với những cơn nghiện trong quá khứ hay có điều gì đó độc ác hơn đang diễn ra.",
+      "ageUnder": "T18",
+      "type": "2D",
+      "director": "Joshua John Miller",
+      "category": "Horror",
+      "startDate": "14/06/2024",
+      "time": "118",
+      "language": "Phụ đề",
+      "img": "/images/movies/exor.jpg",
+      "onTheater": true
+    },
+    {
+      "id": "11",
+      "title": "DEADPOOL AND WOLVRINE",
+      "description": "Wolverine đang hồi phục vết thương thì gặp phải Deadpool mồm mép. Họ đã hợp thành một đội để đánh bại kẻ thù chung.",
+      "ageUnder": "T18",
+      "type": "2D",
+      "director": "Shawn Levy",
+      "category": "Horror",
+      "startDate": "14/06/2024",
+      "time": "118",
+      "language": "Phụ đề",
+      "img": "/images/movies/deadpool.png",
+      "onTheater": false
+    },
+    {
+      "id": "12",
+      "title": "DETECTIVE CONAN: NGÔI SAO 5 CÁNH 1 TRIỆU ĐÔ",
+      "description": "“Sự thật” ẩn giấu trong thanh kiếm cắt xuyên màn đêm đen tối và dẫn chúng ta xuống dưới ánh trăng. Tình yêu và những sự cố diễn ra theo những cách đầy sóng gió. Cuộc chiến kho báu bí ẩn sẽ chia cắt thế giới đã bắt đầu.",
+      "ageUnder": "T18",
+      "type": "2D",
+      "director": "Chika",
+      "category": "Animation",
+      "startDate": "14/06/2024",
+      "time": "118",
+      "language": "Phụ đề",
+      "img": "/images/movies/conan.png",
+      "onTheater": false
+    },
+    {
+      "id": "13",
+      "title": "HELLO JADOO SPECIAL: ĐẠI DƯƠNG DIỆU KỲ",
+      "description": "Trong kỳ nghỉ trên biển, Jadoo tinh nghịch trở thành chiến binh rùa xuất sắc tại thủy cung. Cô có nhiệm vụ đi bắt chú thỏ để có thể giành lại trái tim của Vua Rồng. Nhưng giữa Jadoo và chú thỏ lại xảy sinh một tình bạn đáng quý. Điều gì sẽ xảy ra với họ?",
+      "ageUnder": "T18",
+      "type": "2D",
+      "director": "Son Seok-woo",
+      "category": "Animation",
+      "startDate": "14/06/2024",
+      "time": "118",
+      "language": "Phụ đề",
+      "img": "/images/movies/jado.jpg",
+      "onTheater": false
+    }
+  ],
+  "memberShip": [
+    {
+      "id": "1",
+      "name": "Normal",
+      "img": "/images/memberShip/nor.png"
+    },
+    {
+      "id": "2",
+      "name": "Gold",
+      "img": "/images/memberShip/gold.png"
+    },
+    {
+      "id": "3",
+      "name": "Platinum",
+      "img": "/images/memberShip/pla.png"
+    }
+  ],
+  "theater": [
+    {
+      "id": "1",
+      "name": "Hola Theater",
+      "img": "/images/theater/hola.png",
+      "place": "Khu Cnc hola, Ha Noi, VietNam",
+      "phoneNumber": "0911662996",
+      "email": "fpticket@gmail.com",
+      "seat": [
+        {
+          "id": 1,
+          "class": "VIP",
+          "chair": 20,
+          "price": 250000
+        },
+        {
+          "id": 2,
+          "class": "Classic",
+          "chair": 15,
+          "price": 150000
+        },
+        {
+          "id": 3,
+          "class": "SweetBox",
+          "chair": 10,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "FER202 Theater",
+      "img": "/images/theater/fer202.png",
+      "place": "Khu Cnc hola, Ha Noi, VietNam",
+      "phoneNumber": "0911662996",
+      "email": "fpticket@gmail.com",
+      "seat": [
+        {
+          "id": 1,
+          "class": "VIP",
+          "chair": 30,
+          "price": 250000
+        },
+        {
+          "id": 2,
+          "class": "Classic",
+          "chair": 50,
+          "price": 150000
+        },
+        {
+          "id": 3,
+          "class": "SweetBox",
+          "chair": 20,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "SDN301 Theater",
+      "img": "/images/theater/sdn301.png",
+      "place": "Khu Cnc hola, Ha Noi, VietNam",
+      "phoneNumber": "0911662996",
+      "email": "fpticket@gmail.com",
+      "seat": [
+        {
+          "id": 1,
+          "class": "VIP",
+          "chair": 10,
+          "price": 250000
+        },
+        {
+          "id": 2,
+          "class": "Classic",
+          "chair": 100,
+          "price": 150000
+        },
+        {
+          "id": 3,
+          "class": "SweetBox",
+          "chair": 5,
+          "price": 400000
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin",
+      "password": "123",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "id": "25f",
+      "firstName": "Nhat",
+      "lastName": "Nguyen",
+      "gender": "male",
+      "email": "nhat@gmail.com",
+      "password": "123",
+      "reEnterPassword": "123",
+      "phoneNumber": "0911662996",
+      "dateOfBirth": "2024-07-06",
+      "role": "user",
+      "active": true,
+      "totalAmount": 0
+    },
+    {
+      "id": "431a",
+      "firstName": "Nhat",
+      "lastName": "Nguyen",
+      "gender": "male",
+      "email": "longnhat@gmail.com",
+      "password": "123123",
+      "reEnterPassword": "123123",
+      "phoneNumber": "0911882774",
+      "dateOfBirth": "2001-02-06",
+      "role": "user",
+      "active": true,
+      "totalAmount": 15563900
+    },
+    {
+      "id": "9070",
+      "firstName": "Nhat",
+      "lastName": "Nguyen",
+      "gender": "male",
+      "email": "nhat01525@gmail.com",
+      "password": "123123",
+      "phoneNumber": "0911662996",
+      "dateOfBirth": "2024-07-18",
+      "role": "user",
+      "active": true,
+      "totalAmount": 0
+    },
+    {
+      "id": "7ef2",
+      "firstName": "Nhat",
+      "lastName": "Nguyen",
+      "gender": "",
+      "email": "nhatnlde140307@fpt.edu.vn",
+      "password": "123123aa",
+      "phoneNumber": "0911662996",
+      "dateOfBirth": "2000-08-06",
+      "role": "user",
+      "active": true,
+      "totalAmount": 0
+    },
+    {
+      "id": "152f",
+      "firstName": "Đức Anh",
+      "lastName": "Mai",
+      "gender": "male",
+      "email": "ducanhdz502@gmail.com",
+      "password": "1234567",
+      "phoneNumber": "0967339681",
+      "dateOfBirth": "2000-11-11",
+      "role": "user",
+      "active": true,
+      "totalAmount": 0
+    }
+  ],
+  "event": [
+    {
+      "id": "1",
+      "type": "event",
+      "img": "./images/event/event1.jpg",
+      "title": "COMBO LY ĐỔI MÀU ĐỘC QUYỀN",
+      "date": "26/04/2024",
+      "desc": "Ly đổi màu khi được chứa thức uống lạnh mang lại sự độc đáo và thú vị hơn khi dùng đồ uống.Combo độc quyền có mặt tại các cụm rạp BHD Star Hồ Chí Minh và Huế."
+    },
+    {
+      "id": "2",
+      "type": "event",
+      "img": "./images/event/event2.jpg",
+      "title": "QUÀ TẶNG CHO NỬA THẾ GIỚI",
+      "date": "04/03/2024",
+      "desc": "Áp dụng từ 08.03 – 10.03.2024 Tại các cụm rạp BHD Star Hồ Chí Minh và Huế. PHÁI MẠNH ơiiiii, cùng mẹ hoặc người yêu hay vợ chẳng hạn em gái đến rạp liền đi ạhhhhh Số lượng quà tặng có hạn nên khách yêu đến sớmn nhé"
+    },
+    {
+      "id": "3",
+      "type": "event",
+      "img": "./images/event/event3.png",
+      "title": "HAPPY DAY THỨ 2 GIÁ RẺ – CHỈ TỪ 60K/ VÉ",
+      "date": "04/03/2024",
+      "desc": "TƯNG BỪNG KHAI TRƯƠNG RẠP CHIẾU PHIM BHD STAR THE GARDEN: RỘN RÀNG CÙNG CHUỖI ƯU ĐÃI SIÊU KHỦNG"
+    },
+    {
+      "id": "4",
+      "type": "event",
+      "img": "./images/event/event4.png",
+      "title": "DỊCH VỤ SỰ KIỆN – IS READY FOR SERVICE",
+      "date": "04/03/2024",
+      "desc": "Cụm rạp thứ 10 của BHD Star Cineplex sẽ chính thức khai trương vào ngày 21/12/2019 tại Hà Nội với ưu đãi xem phim miễn phí cùng hàng ngàn chương trình khuyến mãi siêu khủng!"
+    },
+    {
+      "id": "5",
+      "type": "event",
+      "img": "./images/event/event5.png",
+      "title": "QUÉT MÃ QR – THẲNG TIẾN VÀO RẠP",
+      "date": "04/03/2024",
+      "desc": "TƯNG BỪNG KHAI TRƯƠNG RẠP CHIẾU PHIM RỘN RÀNG CÙNG CHUỖI ƯU ĐÃI SIÊU KHỦNG"
+    },
+    {
+      "id": "6",
+      "type": "event",
+      "img": "./images/event/event6.png",
+      "title": "HAPPY DAY THỨ 2 GIÁ RẺ – CHỈ TỪ 60K/ VÉ",
+      "date": "04/03/2024",
+      "desc": "TƯNG BỪNG KHAI TRƯƠNG RẠP CHIẾU PHIM RỘN RÀNG CÙNG CHUỖI ƯU ĐÃI SIÊU KHỦNG"
+    },
+    {
+      "id": "7",
+      "type": "promo",
+      "img": "./images/event/event4.png",
+      "title": "DỊCH VỤ SỰ KIỆN – IS READY FOR SERVICE",
+      "date": "04/03/2024",
+      "desc": "Cụm rạp thứ 10 của BHD Star Cineplex sẽ chính thức khai trương vào ngày 21/12/2019 tại Hà Nội với ưu đãi xem phim miễn phí cùng hàng ngàn chương trình khuyến mãi siêu khủng!"
+    },
+    {
+      "id": "8",
+      "type": "promo",
+      "img": "./images/event/event5.png",
+      "title": "QUÉT MÃ QR – THẲNG TIẾN VÀO RẠP",
+      "date": "04/03/2024",
+      "desc": "TƯNG BỪNG KHAI TRƯƠNG RẠP CHIẾU PHIM RỘN RÀNG CÙNG CHUỖI ƯU ĐÃI SIÊU KHỦNG"
+    },
+    {
+      "id": "9",
+      "type": "promo",
+      "img": "./images/event/event6.png",
+      "title": "HAPPY DAY THỨ 2 GIÁ RẺ – CHỈ TỪ 60K/ VÉ",
+      "date": "04/03/2024",
+      "desc": "TƯNG BỪNG KHAI TRƯƠNG RẠP CHIẾU PHIM RỘN RÀNG CÙNG CHUỖI ƯU ĐÃI SIÊU KHỦNG"
+    }
+  ],
+  "popCorns": [
+    {
+      "id": "1",
+      "img": "/images/popcorn/combo.jpeg",
+      "name": "Online Single Combo - Sweet 32 Oz",
+      "desc": "01 bắp lớn vị ngọt + 01 nước lớn. Nhận trong ngày xem",
+      "price": 95000
+    },
+    {
+      "id": "2",
+      "img": "/images/popcorn/combo.jpeg",
+      "name": "Online Couple Combo - Sweet 32 Oz",
+      "desc": "01 bắp lớn vị ngọt + 02 nước lớn. Nhận trong ngày xem",
+      "price": 126000
+    },
+    {
+      "id": "3",
+      "img": "/images/popcorn/combo.jpeg",
+      "name": "Aquafina",
+      "desc": "Aquafina for handsome ppl",
+      "price": 10000
+    },
+    {
+      "id": "5",
+      "img": "/images/popcorn/combo.jpeg",
+      "name": "Normal PopCorn",
+      "desc": "01 bắp lớn",
+      "price": 30000
+    }
+  ],
+  "tickets": [
+    {
+      "id": "099f",
+      "movieId": "3",
+      "showingId": "ea51",
+      "seats": {
+        "VIP": 6,
+        "Classic": 2,
+        "SweetBox": 9
+      },
+      "foods": {
+        "1": 2,
+        "3": 2
+      },
+      "totalPrice": 6721000,
+      "userId": "431a",
+      "emXinhTuoi": true,
+      "pay": false
+    },
+    {
+      "id": "237f",
+      "movieId": "3",
+      "showingId": "ea51",
+      "seats": {
+        "VIP": 4
+      },
+      "foods": {},
+      "totalPrice": 1650000,
+      "userId": "431a",
+      "emXinhTuoi": true,
+      "pay": false
+    },
+    {
+      "id": "a9a0",
+      "movieId": "3",
+      "showingId": "ea51",
+      "seats": {
+        "VIP": 3
+      },
+      "foods": {
+        "1": 0
+      },
+      "totalPrice": 825000,
+      "userId": "431a",
+      "emXinhTuoi": false,
+      "pay": false
+    },
+    {
+      "id": "ebf7",
+      "movieId": "3",
+      "showingId": "ea51",
+      "seats": {
+        "Classic": 2
+      },
+      "foods": {},
+      "totalPrice": 880000,
+      "userId": "431a",
+      "emXinhTuoi": true,
+      "pay": false
+    },
+    {
+      "id": "0b8e",
+      "movieId": "8",
+      "showingId": "0bac",
+      "seats": {
+        "Classic": 8,
+        "VIP": 10
+      },
+      "foods": {
+        "1": 3,
+        "2": 4
+      },
+      "totalPrice": 5487900,
+      "userId": "431a",
+      "emXinhTuoi": true,
+      "pay": false
+    },
+    {
+      "id": "c838",
+      "movieId": "8",
+      "showingId": "0bac",
+      "seats": {
+        "SweetBox": 0
+      },
+      "foods": {},
+      "totalPrice": 0,
+      "userId": "9070",
+      "emXinhTuoi": false,
+      "pay": false
+    },
+    {
+      "id": "31b2",
+      "movieId": "8",
+      "showingId": "0bac",
+      "seats": [
+        {
+          "class": "Classic",
+          "totalChairs": 100,
+          "price": 150000,
+          "availableChairs": 92,
+          "isBooked": false
+        }
+      ],
+      "totalPrice": 165000,
+      "userId": "9070",
+      "pay": false
+    },
+    {
+      "id": "4592",
+      "movieId": "8",
+      "showingId": "0bac",
+      "seats": [
+        {
+          "class": "SweetBox",
+          "totalChairs": 5,
+          "price": 400000,
+          "availableChairs": 5,
+          "isBooked": false
+        }
+      ],
+      "totalPrice": 440000.00000000006,
+      "userId": "9070",
+      "pay": false
+    },
+    {
+      "id": "f216",
+      "movieId": "3",
+      "showingId": "4505",
+      "seats": [
+        {
+          "class": "Classic",
+          "totalChairs": 15,
+          "price": 150000,
+          "availableChairs": 15,
+          "isBooked": false
+        }
+      ],
+      "totalPrice": 165000,
+      "userId": "9070",
+      "pay": false
+    },
+    {
+      "id": "4947",
+      "movieId": "3",
+      "showingId": "4504",
+      "seats": [
+        {
+          "class": "Classic",
+          "totalChairs": 15,
+          "price": 150000,
+          "availableChairs": 15,
+          "isBooked": false
+        }
+      ],
+      "totalPrice": 165000,
+      "userId": "9070",
+      "pay": false
+    }
+  ],
+  "showing": [
+    {
+      "id": "3f93",
+      "movieId": "6",
+      "theater": "FER202 Theater",
+      "showDate": "2024-07-19",
+      "showTime": "12:00",
+      "seats": [
+        {
+          "class": "VIP",
+          "totalChairs": 20,
+          "price": 250000
+        },
+        {
+          "class": "Classic",
+          "totalChairs": 15,
+          "price": 150000
+        },
+        {
+          "class": "SweetBox",
+          "totalChairs": 10,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "4504",
+      "movieId": "3",
+      "theater": "Hola Theater",
+      "showDate": "2024-07-18",
+      "showTime": "20:00",
+      "seats": [
+        {
+          "class": "VIP",
+          "totalChairs": 20,
+          "price": 250000
+        },
+        {
+          "class": "Classic",
+          "totalChairs": 15,
+          "price": 150000
+        },
+        {
+          "class": "SweetBox",
+          "totalChairs": 10,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "4505",
+      "movieId": "3",
+      "theater": "Hola Theater",
+      "showDate": "2024-07-18",
+      "showTime": "10:00",
+      "seats": [
+        {
+          "class": "VIP",
+          "totalChairs": 20,
+          "price": 250000
+        },
+        {
+          "class": "Classic",
+          "totalChairs": 15,
+          "price": 150000
+        },
+        {
+          "class": "SweetBox",
+          "totalChairs": 10,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "4507",
+      "movieId": "3",
+      "theater": "Hola Theater",
+      "showDate": "2024-07-18",
+      "showTime": "23:00",
+      "seats": [
+        {
+          "class": "VIP",
+          "totalChairs": 20,
+          "price": 250000
+        },
+        {
+          "class": "Classic",
+          "totalChairs": 15,
+          "price": 150000
+        },
+        {
+          "class": "SweetBox",
+          "totalChairs": 10,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "e41a",
+      "movieId": "10",
+      "theater": "SDN301 Theater",
+      "showDate": "2024-07-19",
+      "showTime": "12:00",
+      "seats": [
+        {
+          "class": "VIP",
+          "totalChairs": 10,
+          "price": 250000
+        },
+        {
+          "class": "Classic",
+          "totalChairs": 100,
+          "price": 150000
+        },
+        {
+          "class": "SweetBox",
+          "totalChairs": 5,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "ea51",
+      "movieId": "3",
+      "theater": "FER202 Theater",
+      "showDate": "2024-07-20",
+      "showTime": "10:00",
+      "seats": [
+        {
+          "class": "VIP",
+          "totalChairs": 30,
+          "price": 250000
+        },
+        {
+          "class": "Classic",
+          "totalChairs": 50,
+          "price": 150000
+        },
+        {
+          "class": "SweetBox",
+          "totalChairs": 20,
+          "price": 400000
+        }
+      ]
+    },
+    {
+      "id": "0bac",
+      "movieId": "8",
+      "theater": "SDN301 Theater",
+      "showDate": "2024-07-20",
+      "showTime": "08:00",
+      "seats": [
+        {
+          "class": "VIP",
+          "totalChairs": 10,
+          "price": 250000
+        },
+        {
+          "class": "Classic",
+          "totalChairs": 100,
+          "price": 150000
+        },
+        {
+          "class": "SweetBox",
+          "totalChairs": 5,
+          "price": 400000
+        }
+      ]
+    }
+  ],
+  "userRequest": [
+    {
+      "id": "7693",
+      "email": "nhat@gmail.com",
+      "requestType": 1,
+      "description": "Unbanfor me sir",
+      "resolver": true
+    },
+    {
+      "id": "33f9",
+      "email": "nhatnlde140307@fpt.edu.vn",
+      "requestType": 2,
+      "description": "QUen Mk",
+      "resolver": true
+    },
+    {
+      "id": "7a5d",
+      "email": "nhatnlde140307@fpt.edu.vn",
+      "requestType": "1",
+      "description": "ban r",
+      "resolver": true
+    },
+    {
+      "id": "386a",
+      "email": "nhat@gmail.com",
+      "requestType": "1",
+      "description": "unban for me sir",
+      "resolver": true
+    }
+  ]
+}

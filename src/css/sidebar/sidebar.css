@@ -1,0 +1,134 @@
+body {
+  background: #eee;
+}
+
+.main-container {
+  margin-top: 40px;
+}
+
+.widget-author {
+  margin-bottom: 58px;
+}
+
+/* Sidebar adjustments */
+.author-card {
+  position: relative;
+  padding-bottom: 30px;
+  background-color: #fff;
+  box-shadow: 0 12px 20px 1px rgba(64, 64, 64, 0.09);
+  max-width: 350px; /* Đặt chiều rộng tối đa cho sidebar */
+  margin: 0 auto; /* Đảm bảo sidebar được căn giữa */
+  border-radius: 10px; /* Tăng góc bo tròn */
+}
+
+.author-card .author-card-cover {
+  position: relative;
+  width: 100%;
+  height: 120px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.author-card .author-card-cover::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  content: '';
+  opacity: 0.5;
+}
+
+.author-card .author-card-cover > .btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  padding: 5px 12px;
+  font-size: 12px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.author-card .author-card-profile {
+  display: inline-flex;
+  position: relative;
+  margin-top: -22px;
+  padding-right: 15px;
+  padding-bottom: 16px;
+  padding-left: 20px;
+  z-index: 5;
+  text-align: center; /* Căn giữa nội dung */
+}
+
+.author-card .author-card-profile .author-card-avatar {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  margin: 0 auto; /* Căn giữa avatar */
+  border: 3px solid #fff; /* Tạo đường viền trắng */
+}
+
+.author-card .author-card-profile .author-card-avatar > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Đảm bảo hình ảnh không bị méo */
+}
+
+.author-card .author-card-profile .author-card-details {
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+.author-card .author-card-profile .author-card-name {
+  margin-bottom: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #404040;
+}
+
+.author-card .author-card-profile .author-card-position {
+  font-size: 14px;
+  color: #666;
+  font-style: italic;
+}
+
+/* Sidebar navigation */
+.wizard {
+  margin-top: 20px;
+  max-width: 350px; /* Đảm bảo chiều rộng sidebar đồng nhất */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wizard .list-group-item {
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  padding: 12px;
+  border: 1px solid #ddd; /* Thêm viền cho nút */
+  border-radius: 5px;
+  margin-bottom: 10px; /* Khoảng cách giữa các nút */
+  background-color: #f8f9fa;
+  transition: all 0.3s ease;
+}
+
+.wizard .list-group-item:hover {
+  background-color: #198754;
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Thêm hiệu ứng hover */
+}
+
+.wizard .list-group-item.active {
+  background-color: #198754;
+  color: #ffffff;
+  font-weight: bold;
+}

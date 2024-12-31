@@ -1,0 +1,139 @@
+.profile-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 20px;
+    background-color: #f8f9fa; /* Nền sáng */
+    min-height: 100vh;
+  }
+  .profile-card {
+    flex: 1;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    color: #333333;
+    max-width: 800px; /* Form lớn hơn */
+    margin-left: auto; /* Căn giữa form */
+    margin-right: auto;
+  }
+  
+  .profile-card h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #198754;
+    text-align: center; /* Căn giữa chữ */
+    margin-bottom: 20px;
+  }
+  
+  .profile-card p {
+    font-size: 16px;
+    margin: 12px 0;
+    color: #555555;
+  }
+  
+  .profile-card p strong {
+    color: #198754;
+   
+  }
+  
+  .profile-card .btn {
+    margin: 20px 10px 0;
+    font-size: 14px;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .profile-card .btn-primary {
+    background-color: #198754;
+    border-color: #198754;
+    color: #ffffff;
+  }
+  
+  .profile-card .btn-primary:hover {
+    background-color: #145a32;
+    border-color: #145a32;
+  }
+  
+  .profile-card .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #ffffff;
+  }
+  
+  .profile-card .btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #5a6268;
+  }
+  .gender-selection {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; /* Khoảng cách với các trường khác */
+  }
+  
+  .gender-selection strong {
+    margin-right: 15px;
+    font-size: 16px;
+    color: #198754;
+  }
+  
+  .gender-selection label {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #404040;
+    margin-right: 20px; /* Khoảng cách giữa hai checkbox */
+  }
+  
+  .gender-selection input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  .profile-info {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Khoảng cách giữa các trường */
+    margin-bottom: 20px; /* Khoảng cách giữa danh sách trường và nút */
+  }
+  
+  .profile-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .profile-row strong {
+    width: 150px; /* Đặt độ rộng cố định cho nhãn để căn đều */
+    font-weight: bold;
+    color: #198754;
+    
+  }
+  
+  .profile-row span {
+    flex: 1; /* Giá trị linh hoạt để căn chỉnh */
+    color: #212223;
+  }
+  
+  .gender-row label {
+    margin-right: 15px; /* Khoảng cách giữa các checkbox */
+  }
+  
+  .profile-buttons {
+    display: flex;
+    gap: 10px; /* Khoảng cách giữa các nút */
+    justify-content: flex-start;
+  }
+  
+  .profile-buttons .btn {
+    padding: 10px 20px;
+  }
+  
+  .profile-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  

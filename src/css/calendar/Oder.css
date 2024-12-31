@@ -1,0 +1,14 @@
+.seat-booked {
+    background-color: #dc3545; /* Red for booked */
+    color: white;
+}
+
+.seat-selected {
+    background-color: #28a745; /* Green for selected */
+    color: white;
+}
+
+.seat-available {
+    background-color: #f0ad4e; /* Orange for available */
+    color: white;
+}

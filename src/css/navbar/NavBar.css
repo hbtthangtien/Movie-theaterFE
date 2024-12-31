@@ -1,0 +1,75 @@
+.transparent-button {
+    background-color: transparent;
+    border: 1px solid #198754 ;
+    color: white; 
+    padding: 0.375rem 0.75rem; /* Adjust padding as needed */
+    font-size: 1rem; /* Adjust font size as needed */
+    cursor: pointer;
+}
+.transparent-button:hover {
+    background-color:  #198754;
+    border: none;
+}
+.container-all{
+    z-index: 999;
+}
+.nav-top{
+    position: sticky;
+    top:0
+}
+.avatar-dropdown {
+    position: absolute;
+    top: 70px; /* Position below the avatar */
+    right: 10px; /* Align to the right */
+    background-color: #1e1e1e; /* Match the navbar background */
+    border: 1px solid #333; /* Subtle border for definition */
+    border-radius: 8px; /* Smooth rounded corners */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+    width: 200px; /* Fixed width */
+    display: none; /* Hidden by default */
+    z-index: 1000;
+}
+
+/* Show the Dropdown on Click */
+.avatar-dropdown.show {
+    display: block; /* Make visible */
+}
+
+/* Dropdown Menu Item Styles */
+.avatar-dropdown .menu-item {
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #ccc; /* Light gray text */
+    text-decoration: none; /* Remove underlines */
+    display: block; /* Ensure full clickable area */
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Hover Effect for Menu Items */
+.avatar-dropdown .menu-item:hover {
+    background-color: #2a2a2a; /* Darker gray on hover */
+    color: #fff; /* White text on hover */
+    cursor: pointer; /* Pointer cursor for interaction */
+}
+
+/* Link Styles in Menu */
+.avatar-dropdown a {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit text color */
+}
+
+/* Avatar Container */
+.avatar-container {
+    position: relative; /* To position the dropdown */
+}
+
+/* Arrow Indicator for Dropdown */
+.avatar-dropdown::before {
+    content: "";
+    position: absolute;
+    top: -10px; /* Position above the dropdown */
+    right: 20px; /* Center the arrow */
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 10px solid #1e1e1e; /* Match dropdown background */
+}
